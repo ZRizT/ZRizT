@@ -53,6 +53,9 @@ My journey spans across **full-stack development**, **security research**, and *
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZRizT&theme=tokyonight&layout=compact&hide_border=true)
 
+
+
+
 </div>
 
 ---
@@ -99,6 +102,10 @@ My journey spans across **full-stack development**, **security research**, and *
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ZRizT)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
 
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation"/>
 </div>
 
 ---
