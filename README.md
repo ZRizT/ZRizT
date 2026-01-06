@@ -1,142 +1,105 @@
-# 👋 Hey there! I'm ZRizT
+# ZRizT
 
-<div align="center">
-  
-### 💻 Software Developer | 🔐 Cybersecurity Enthusiast | 🎮 Game Dev Explorer
-#### *Crafting elegant code, breaking systems ethically, and building tomorrow's tech*
+**Building systems intentionally.  Learning openly.  Creating with depth.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=ZRizT&color=0891b2&style=flat-square)
-
-</div>
+I'm a student of Informatics Engineering exploring software architecture, secure systems, and the creative side of engineering. Welcome to my corner of GitHub.
 
 ---
 
-## 🚀 About Me
+## 👋 About
 
-I'm a passionate software engineer and technology enthusiast with a deep interest in building robust applications, exploring cybersecurity concepts, and creating interactive experiences. With a forward-thinking mindset, I believe in continuous learning and leveraging technology to solve real-world problems.
+I believe the best engineers are curious, humble, and committed to understanding *why* things work—not just *that* they work. 
 
-My journey spans across **full-stack development**, **security research**, and **game development**—always keeping code clean, systems secure, and solutions scalable. I thrive in collaborative environments and love contributing to open-source projects that push the boundaries of innovation.
+Right now, I'm: 
+- **Learning:** System design, secure coding practices, and how to think like a builder
+- **Building:** Tools and projects that teach me something new
+- **Experimenting:** With game dev, AI, and the intersection of code and creativity
+- **Growing:** One mistake at a time, learning from each one
 
----
-
-## 🛠️ Tech Stack & Skills
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Cybersecurity & IT
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6D00?style=for-the-badge&logo=burp-suite&logoColor=white)
+I'm not a senior engineer. I'm not an expert. I'm a student who's decided to learn in public, build openly, and share the journey.  That honesty matters to me.
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 Vision:  Zora Studio
 
-<div align="center">
+Zora Studio isn't a company.  It's my personal vision for a creative-technical practice. 
 
-![ZRizT's GitHub Stats](https://github-readme-stats.vercel.app/api? username=ZRizT&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+Think of it as a studio where:
+- Software, games, tools, and experimental work coexist
+- Ideas develop slowly and deliberately
+- Quality and intention matter more than speed
+- Learning and building are the same process
 
-![ZRizT's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ZRizT&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZRizT&theme=tokyonight&layout=compact&hide_border=true)
-
-
-
-
-</div>
+Every project here is part of that longer story. Some will become something meaningful. Others will be stepping stones.  All of them are valuable.
 
 ---
 
-## 🎯 Current Focus
+## 🛠️ Tech Stack
 
-- 🔬 **Deepening Security Knowledge**: Exploring advanced penetration testing techniques and vulnerability assessment frameworks
-- 🚀 **Full-Stack Development**: Building scalable web applications with modern tech stacks (React, Node.js, TypeScript)
-- 🎮 **Game Development**: Learning and experimenting with game engines (Unity, Godot)
-- 📚 **Open Source Contributions**: Contributing to meaningful projects and building tools for the developer community
-- 🏗️ **System Design**: Understanding architectural patterns and designing systems at scale
+**Languages:**
+- Python (main focus, everyday tool)
+- C++ (systems thinking, deep learning)
+- Kotlin (mobile exploration)
+- C# (game development interest)
 
----
+**Tools & Environment:**
+- VS Code, Git & GitHub (daily workflow)
+- Linux-based development
+- Wireshark, Kali Linux, Burp Suite (security fundamentals)
 
-## 💼 Featured Projects
-
-#### [Project Name TBA](https://github.com/ZRizT/project)
-*A full-stack web application showcasing modern development practices*
-- React + TypeScript frontend with responsive design
-- Node.js/Express backend with JWT authentication
-- MongoDB database with optimized queries
-
-#### [Security Tool / Framework](https://github.com/ZRizT/security-tool)
-*Educational cybersecurity tool for network analysis and vulnerability detection*
-- Python-based scanner with real-time reporting
-- RESTful API for integration
-- CLI and web interface
-
-#### [Game Prototype](https://github.com/ZRizT/game-project)
-*Interactive game project demonstrating game development principles*
-- Built with [Game Engine]
-- Physics-based gameplay mechanics
-- Cross-platform support
+**What this means:** I use these tools to learn, build, and solve problems. I'm competent with them, still growing in them, and honest about what I don't know yet.
 
 ---
 
-## 🌍 Connect With Me
+## 🚀 Projects
 
-<div align="center">
+### [Zenith Desktop](https://github.com/ZRizT/zenith-desktop)
+**A personal desktop assistant exploring automation, system control, and local AI.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZRizT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ZRizT)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZRizT)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ZRizT)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation"/>
-</div>
+- Offline-first, privacy-focused design
+- System integration and automation
+- Long-term AI experimentation
+- **Status:** Active development, intentionally evolving
+- **Why it matters:** Learning how systems integrate, designing for privacy
 
 ---
 
-## 💡 Philosophy & Mindset
+### [mypw-cli](https://github.com/ZRizT/mypw-cli)
+**Command-line password manager.  Built for clarity, security, and simplicity.**
 
-> *"Code is poetry written for machines to execute and humans to understand.  Security is not a feature—it's a responsibility.  Every line of code is a statement of intent."*
-
-### What Drives Me: 
-- **Continuous Learning** → The tech landscape evolves daily; staying curious is non-negotiable
-- **Quality Over Quantity** → I'd rather write 100 lines of elegant code than 1000 lines of technical debt
-- **Security First** → Building features without considering security is building on sand
-- **Community Impact** → Sharing knowledge and lifting others up creates exponential growth
-- **Innovation with Purpose** → Technology should solve real problems, not create new ones
+- Local-first, no cloud dependency
+- Clean CLI interface
+- Security fundamentals in practice
+- **Status:** Functional, continuously improving
+- **Why it matters:** Understanding cryptography, secure storage, and user-centric design
 
 ---
 
-## 📈 Fun Facts
+### [mypw-kotlin](https://github.com/ZRizT/mypw-kotlin)
+**Android password manager.  Exploring mobile architecture and offline security.**
 
-🎯 **Code Philosophy**: I believe in writing code that's not just functional, but also maintainable and beautiful  
-⚡ **Speed vs.  Quality**: Fast is good, but sustainable is better  
-🔐 **Security Mindset**: Always assume you're one patch away from a breach  
-🌱 **Growth Mentality**: Every bug fixed is a lesson learned  
-🎮 **Creative Side**: Game development keeps my creative muscles sharp  
+- Native Android development
+- Local data persistence
+- Security-conscious UI/UX
+- **Status:** In development, experimental
+- **Why it matters:** Learning mobile platforms, bridging desktop and mobile thinking
 
 ---
 
-<div align="center">
+## 🎓 Current Focus
 
-### ⭐ If you find my work interesting, consider giving it a star! 
+**This Year:**
+- Deepen understanding of system architecture and design patterns
+- Build secure software from first principles
+- Create 2-3 projects that push my technical boundaries
+- Contribute meaningfully to open-source work
 
-**Let's build something amazing together** 🚀
+**Longer Term:**
+- Develop a unique voice in technology and engineering
+- Build projects that solve real problems (even if just for myself)
+- Understand the intersection of creative thinking and technical depth
+- Document what I learn along the way
 
-</div>
+---
+
+## 📊 A Snapshot
